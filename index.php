@@ -7,6 +7,6 @@
     <title>Document</title>
 </head>
 <body>
-    <button class="btn btn-primary">Testing weather the bootstrap works or not</button>
+   
 </body>
 </html>
